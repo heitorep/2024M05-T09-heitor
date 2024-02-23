@@ -23,21 +23,29 @@ Chave SSH para conexão segura
 
 <img src="img/print2.png">
 
-**Escolha do Tipo de Instância:** O próximo passo é selecionar o tipo de instância, que determina os recursos de hardware da máquina virtual. O print que mostra a seleção do tipo de instância "t2.micro" é relevante aqui (Print 3).
+**Escolha do Tipo de Instância:** O próximo passo é selecionar o tipo de instância, que determina os recursos de hardware da máquina virtual. O print que mostra a seleção do tipo de instância "t2.micro" é relevante aqui <img src="img/print3.png">
 
-**Configuração do Par de Chaves (Login):** Para garantir o acesso seguro à instância, é necessário um par de chaves. O print onde um par de chaves chamado 'ponderada' é selecionado demonstra essa configuração (Print 4).
+**Configuração do Par de Chaves (Login):** Para garantir o acesso seguro à instância, é necessário um par de chaves. O print onde um par de chaves chamado 'ponderada' é selecionado demonstra essa configuração.
 
-**Configurações de Rede:** Configurar a rede inclui definir uma Virtual Private Cloud (VPC), sub-redes, e grupos de segurança. O print que mostra a criação de um novo grupo de segurança e as regras de firewall é usado aqui (Print 5).
+<img src="img/print4.png">
 
-**Configuração de Armazenamento:** É preciso definir o tamanho e o tipo de armazenamento para a instância. O print que mostra a configuração de um volume de 8 GiB do tipo gp3 se encaixa nesta etapa (Print 6).
+**Configurações de Rede:** Configurar a rede inclui definir uma Virtual Private Cloud (VPC), sub-redes, e grupos de segurança. O print que mostra a criação de um novo grupo de segurança e as regras de firewall é usado aqui.
+<img src="img/print5.png">
 
+**Configuração de Armazenamento:** É preciso definir o tamanho e o tipo de armazenamento para a instância. O print que mostra a configuração de um volume de 8 GiB do tipo gp3 se encaixa nesta etapa.
+<img src="img/print6.png">
 ## Resultados
 
-Após a configuração e o lançamento da instância, os detalhes da instância, como ID, endereço IP público e privado, e estado da instância são apresentados. O print mostrando a instância em execução e seus detalhes de rede será colocado nesta seção (Print 7).
+Após a configuração e o lançamento da instância, os detalhes da instância, como ID, endereço IP público e privado, e estado da instância são apresentados. O print mostrando a instância em execução e seus detalhes de rede será colocado nesta seção.
+
+<img src="img/print7.png">
 
 ## Conclusão
 
-A última etapa do processo é estabelecer uma conexão SSH com a instância. Os prints que mostram o prompt de autenticidade do host e a tela de login bem-sucedido da instância Linux serão discutidos aqui para concluir o processo de lançamento da instância EC2 (Prints 8 e 9).
+A última etapa do processo é estabelecer uma conexão SSH com a instância. Os prints que mostram o prompt de autenticidade do host e a tela de login bem-sucedido da instância Linux serão discutidos aqui para concluir o processo de lançamento da instância EC2.
+
+<img src="img/print8.png">
+<img src="img/print9.png">
 
 ## Referências
 
