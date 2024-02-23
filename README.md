@@ -16,9 +16,12 @@ Chave SSH para conexão segura
 
 ## Método
 
-**Nomeação da Instância:** O primeiro passo envolve dar um nome à instância para identificação. Esta etapa é ilustrada pelo print com o título "Launch an instance" onde o meu nome 'heitor' é atribuído à instância (Print 1).
+**Nomeação da Instância:** O primeiro passo envolve dar um nome à instância para identificação. Esta etapa é ilustrada pelo print com o título "Launch an instance" onde o meu nome 'heitor' é atribuído à instância.
+<img src="img/print1.png">
 
-**Seleção de Imagem de Sistema Operacional (AMI):** A escolha de uma AMI é crucial, pois define o sistema operacional e a configuração inicial da instância. O print mostrando diferentes AMIs disponíveis para seleção ilustra essa etapa (Print 2).
+**Seleção de Imagem de Sistema Operacional (AMI):** A escolha de uma AMI é crucial, pois define o sistema operacional e a configuração inicial da instância. O print mostrando diferentes AMIs disponíveis para seleção ilustra essa etapa.
+
+<img src="img/print2.png">
 
 **Escolha do Tipo de Instância:** O próximo passo é selecionar o tipo de instância, que determina os recursos de hardware da máquina virtual. O print que mostra a seleção do tipo de instância "t2.micro" é relevante aqui (Print 3).
 
