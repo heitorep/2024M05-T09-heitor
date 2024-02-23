@@ -17,7 +17,7 @@ Chave SSH para conexão segura
 ## Método
 
 **Nomeação da Instância:** O primeiro passo envolve dar um nome à instância para identificação. Esta etapa é ilustrada pelo print com o título "Launch an instance" onde o meu nome 'heitor' é atribuído à instância.
-<img src="img/print1.png">
+<img src="./img/print1.png">
 
 **Seleção de Imagem de Sistema Operacional (AMI):** A escolha de uma AMI é crucial, pois define o sistema operacional e a configuração inicial da instância. O print mostrando diferentes AMIs disponíveis para seleção ilustra essa etapa.
 
